@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homework_fragment</string>
+    <string name="add_document_button_text">Добавить</string>
+    <string name="remove_document_button_text">Удалить</string>
+</resources>
